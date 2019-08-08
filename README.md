@@ -10,7 +10,7 @@ You can install pythonrouge in both ways
 
 ```
 # not using pip
-git clone https://github.com/tagucci/pythonrouge.git
+git clone https://github.com/stepgazaille/pythonrouge.git
 python setup.py install
 
 # using pip
